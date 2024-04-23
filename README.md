@@ -8,7 +8,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>I am uploading what I learned in college and the programs I personally created.</p>
 
-<p>I'm not good at it, but I ask for your interest!</p>
+<p>I'm not good at it, but I ask for your interest!</p><br>
 
 ## ✏️ My GitHub Stats
 ![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default)
