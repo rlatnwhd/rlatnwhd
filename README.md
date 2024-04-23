@@ -12,7 +12,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 개발자를 목표로 열심히 공부하고 있죠!</p>
 
 
-<p>I am uploading the content of my classes at university and the programs I personally created.<br>
+<p>I am uploading what I learned in college and the programs I personally created.<br>
 대학에서의 수업 내용과 개인적으로 만든 프로그램을 업로드하고 있어요.</p>
 
 
