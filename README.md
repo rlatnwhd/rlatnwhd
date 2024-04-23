@@ -13,11 +13,12 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 
 <p>I am uploading the content of my classes at university and the programs I personally created.<br>
-대학에서의 수업 내용과 개인적으로 만든 프로그램을 업로드하고 있어요.</p><br>
+대학에서의 수업 내용과 개인적으로 만든 프로그램을 업로드하고 있어요.</p>
 
 
 <p>I'm not good at it, but I ask for your interest!<br>
 실력은 부족하지만 많은 관심 부탁해요!</p>
+
 ## ✏️ My GitHub Stats
 ![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default)
 
