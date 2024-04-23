@@ -18,13 +18,13 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 <p>I'm not good at it, but I ask for your interest!<br>
 실력은 부족하지만 많은 관심 부탁해요!</p>
 
-# ✏️ My GitHub Stats
+## ✏️ My GitHub Stats
 ![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default)
 
-# 📝 Most Used Languages
+## 📝 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatnwhd&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-# 🔨 Languages and Tools
+## 🔨 Languages and Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C/C++](https://img.shields.io/badge/-C/C++-00599C?style=flat-square&logo=c)
