@@ -2,14 +2,14 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="300 " height="300" /></a>
 <p>Hello :) This is Sujong Kim.<br>
-안녕하세요 :) 김수종입니다.</p><br>
+안녕하세요 :) 김수종입니다.</p>
 
 <p>I am attending Silla University and majoring in computer engineering<br>
-저는 신라대학교에 재학중이고 컴퓨터공학을 전공으로 하고있어요.</p><br>
+저는 신라대학교에 재학중이고 컴퓨터공학을 전공으로 하고있어요.</p>
 
 
 <p>I'm studying hard with the goal of becoming a developer!<br>
-개발자를 목표로 열심히 공부하고 있죠!</p><br>
+개발자를 목표로 열심히 공부하고 있죠!</p>
 
 
 <p>I am uploading the content of my classes at university and the programs I personally created.<br>
