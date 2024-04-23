@@ -1,8 +1,7 @@
 <h1 align="center">Hello Programming World!, I'm <a href="https://www.blackcater.win/" target="_blank">Sujong</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
-<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="290 " height="290" /></a>
-<p>Hello :) I'm Sujong Kim.<br>
-안녕하세요 :) 김수종입니다.</p> 
+<a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
+<p>Hello :) I'm Sujong Kim.</p> 
 <p>I am attending Silla University and majoring in computer engineering.</p>
 
 <p>I'm studying hard with the goal of becoming a developer!</p>
