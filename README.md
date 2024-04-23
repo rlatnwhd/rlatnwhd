@@ -19,7 +19,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 실력은 부족하지만 많은 관심 부탁해요!</p>
 
 ## ✏️ My GitHub Stats
-![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default) <img align="left-top" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default)
 
 ## 📝 Most Used Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatnwhd&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
