@@ -2,7 +2,7 @@
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="290 " height="290" /></a>
 <p>Hello :) I'm Sujong Kim.<br>
-안녕하세요 :) 김수종입니다.</p>
+안녕하세요 :) 김수종입니다.</p> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 <p>I am attending Silla University and majoring in computer engineering<br>
 저는 신라대학교에 재학중이고 컴퓨터공학을 전공으로 하고있어요.</p>
@@ -18,7 +18,6 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>I'm not good at it, but I ask for your interest!<br>
 실력은 부족하지만 많은 관심 부탁해요!</p>
-<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ## ✏️ My GitHub Stats
 ![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default)
