@@ -18,6 +18,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 <p>I'm not good at it, but I ask for your interest!<br>
 실력은 부족하지만 많은 관심 부탁해요!</p>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 ## ✏️ My GitHub Stats
 ![Sujong's GitHub stats](https://github-readme-stats.vercel.app/api?username=rlatnwhd&show_icons=true&theme=default)
