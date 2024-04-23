@@ -35,4 +35,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![VS](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=flat-square&logo=ubuntu)
-![Ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=flat-square&logo=umm)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=flat-square&logo=micro-bit)
