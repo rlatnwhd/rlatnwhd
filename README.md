@@ -35,4 +35,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![VS](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
 ![Linux](https://img.shields.io/badge/-Linux-yellow?style=flat-square&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-orange?style=flat-square&logo=ubuntu)
-![Eclipse](https://img.shields.io/badge/-eclipse-dark-bule?style=flat-square&logo=eclipse)
+![Eclipse](https://img.shields.io/badge/-eclipse-190257?style=flat-square&logo=eclipse)
