@@ -29,7 +29,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 ![VS](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
 ![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux)
-![Ubuntu](https://img.shields.io/badge/-ubuntu-gray?style=flat-square&logo=ubuntu)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-2E2E2E?style=flat-square&logo=ubuntu)
 ![VMware](https://img.shields.io/badge/-VMware-FCCF00?style=flat-square&logo=VMware)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-190257?style=flat-square&logo=eclipse)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-FDFFBC?style=flat-square&logo=jupyter)<br>
