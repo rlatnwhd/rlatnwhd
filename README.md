@@ -18,23 +18,23 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 🔨 Languages and Tools
 ![C](https://img.shields.io/badge/-C-1F5BFF?style=badge&logo=c)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
-![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)<br>
-![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
-![VS](https://img.shields.io/badge/-Visual%20Studio-purple?style=flat-square&logo=visual-studio)
-![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux)
-![Ubuntu](https://img.shields.io/badge/-ubuntu-2E2E2E?style=flat-square&logo=ubuntu)
-![VMware](https://img.shields.io/badge/-VMware-FCCF00?style=flat-square&logo=VMware)
-![Eclipse](https://img.shields.io/badge/-Eclipse-190257?style=flat-square&logo=eclipse)
-![Jupyter](https://img.shields.io/badge/-Jupyter-FDFFBC?style=flat-square&logo=jupyter)<br>
-![Colab](https://img.shields.io/badge/-Colab-white?style=flat-square&logo=googlecolab)
-![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino)
-![Micro:Bit](https://img.shields.io/badge/-Micro:Bit-darkgreen?style=flat-square&logo=microbit)
-![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=flat-square&logo=tinkercad)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=badge&logo=csharp)
+![C++](https://img.shields.io/badge/-C++-00599C?style=badge&logo=cplusplus)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=badge&logo=dotnet)
+![Java](https://img.shields.io/badge/-Java-E34A86?stylebadge&logo=java)
+![Python](https://img.shields.io/badge/-Python-black?style=badge&logo=Python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=badge&logo=css3)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=badge&logo=github)<br>
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=badge&logo=visual-studio-code)
+![VS](https://img.shields.io/badge/-Visual%20Studio-purple?style=badge&logo=visual-studio)
+![Linux](https://img.shields.io/badge/-Linux-white?style=badge&logo=Linux)
+![Ubuntu](https://img.shields.io/badge/-ubuntu-2E2E2E?style=badgee&logo=ubuntu)
+![VMware](https://img.shields.io/badge/-VMware-FCCF00?style=badge&logo=VMware)
+![Eclipse](https://img.shields.io/badge/-Eclipse-190257?style=badge&logo=eclipse)
+![Jupyter](https://img.shields.io/badge/-Jupyter-FDFFBC?style=flat-badge&logo=jupyter)<br>
+![Colab](https://img.shields.io/badge/-Colab-white?style=badge&logo=googlecolab)
+![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=badge&logo=arduino)
+![Micro:Bit](https://img.shields.io/badge/-Micro:Bit-darkgreen?style=badge&logo=microbit)
+![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=badge&logo=tinkercad)
 
