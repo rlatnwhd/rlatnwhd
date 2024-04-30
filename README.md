@@ -33,3 +33,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Eclipse](https://img.shields.io/badge/-eclipse-190257?style=flat-square&logo=eclipse)
 ![VMware](https://img.shields.io/badge/-VMware-FCCF00?style=flat-square&logo=VMware)
 ![colab](https://img.shields.io/badge/-colab-white?style=flat-square&logo=googlecolab)
+![.NET](https://img.shields.io/badge/-.NET-white?style=flat-square&logo=dotnet)
