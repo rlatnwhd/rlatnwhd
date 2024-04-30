@@ -32,7 +32,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-gray?style=flat-square&logo=ubuntu)
 ![VMware](https://img.shields.io/badge/-VMware-FCCF00?style=flat-square&logo=VMware)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-190257?style=flat-square&logo=eclipse)
-![Jupyter](https://img.shields.io/badge/-Jupyter-FFF626?style=flat-square&logo=jupyter)<br>
+![Jupyter](https://img.shields.io/badge/-Jupyter-FDFFBC?style=flat-square&logo=jupyter)<br>
 ![Colab](https://img.shields.io/badge/-Colab-white?style=flat-square&logo=googlecolab)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino)
 ![Micro:Bit](https://img.shields.io/badge/-Micro:Bit-darkgreen?style=flat-square&logo=microbit)
