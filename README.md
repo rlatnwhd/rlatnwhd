@@ -37,6 +37,9 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino)
 ![Micro:Bit](https://img.shields.io/badge/-Micro:Bit-darkgreen?style=flat-square&logo=microbit)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=flat-square&logo=tinkercad)
-[<img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png" alt="Java Logo" height="20">](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png)&nbsp;&nbsp;[![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&color=E34A86)](https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png)
+<table><tr>
+<td><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png" alt="Java Logo" height="20"></td>
+<td><a href="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/200px-Java_programming_language_logo.svg.png"><img src="https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white&color=E34A86"></a></td>
+</tr></table>
 
 
