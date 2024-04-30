@@ -17,7 +17,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatnwhd&layout=compact&theme=default&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🔨 Languages and Tools
-![C](https://img.shields.io/badge/-C-1F5BFF?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-1F5BFF?style=for-the-badge&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
