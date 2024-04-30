@@ -35,4 +35,4 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![colab](https://img.shields.io/badge/-colab-white?style=flat-square&logo=googlecolab)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=flat-square&logo=arduino)
-![micro:bit](https://img.shields.io/badge/-micro:bit-00ED00?style=flat-square&logo=microbit)
+![micro:bit](https://img.shields.io/badge/-micro:bit-darkgreen?style=flat-square&logo=microbit)
