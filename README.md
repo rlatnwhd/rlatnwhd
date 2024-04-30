@@ -31,6 +31,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Linux](https://img.shields.io/badge/-Linux-white?style=flat-square&logo=Linux)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-gray?style=flat-square&logo=ubuntu)
 ![Eclipse](https://img.shields.io/badge/-Eclipse-190257?style=flat-square&logo=eclipse)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter)
 ![VMware](https://img.shields.io/badge/-VMware-FCCF00?style=flat-square&logo=VMware)
 ![Colab](https://img.shields.io/badge/-Colab-white?style=flat-square&logo=googlecolab)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
