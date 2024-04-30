@@ -18,7 +18,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 
 ## 🔨 Languages and Tools
 ![C](https://img.shields.io/badge/-C-1F5BFF?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-CSharp-512BD4?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java)
