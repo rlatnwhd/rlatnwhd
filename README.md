@@ -20,7 +20,7 @@ src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C](https://img.shields.io/badge/-C-1F5BFF?style=flat-square&logo=c)
-![C#](https://img.shields.io/badge/-C###-512BD4?style=flat-square&logo=csharp)
+![C#](https://img.shields.io/badge/-C#|-512BD4?style=flat-square&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
