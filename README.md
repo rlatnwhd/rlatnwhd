@@ -1,5 +1,8 @@
 <h1 align="center">Hello Programming World!, I'm <a href="https://www.blackcater.win/" target="_blank">Sujong</a> <img
 src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=verdana&size=30&duration=4000&pause=400&color=77F746&background=FFFFFF00&random=false&width=435&lines=Hello+Programming+World!;There+is+Sujong's+GitHub+%3A);Nice+To+Meet+You+%F0%9F%98%8E"&center=true&size=30 alt="Typing SVG" /></a>
+</h1>
 <a href="#"><img align="right" src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" width="200 " height="200" /></a>
 <p>Hello :) I'm Sujong Kim.</p> 
 <p>I am attending Silla University and majoring in computer engineering.</p>
