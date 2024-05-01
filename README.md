@@ -14,7 +14,7 @@
 <p>I'm not good at it, but I ask for your interest!</p><br>
 
 <h2 align="center">
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> My GitHub Stats <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" /> My GitHub Stats <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="30" />
 </h2>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Kim%20sujong&card_width=400)](https://git.io/streak-stats)
@@ -22,7 +22,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rlatnwhd&layout=compact&theme=default&langs_count=8&card_width=400)](https://github.com/anuraghazra/github-readme-stats)
   
 
-## 🔨 Languages and Tools
+<h2 align="center">
+  <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Languages and Tools <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+</h2>
+
 ![C](https://img.shields.io/badge/-C-1F5BFF?style=badge&logo=c)
 ![C#](https://img.shields.io/badge/-C%23-512BD4?style=badge&logo=csharp)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=badge&logo=cplusplus)
