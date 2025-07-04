@@ -46,5 +46,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00878F?style=badge&logo=arduino&logoColor=white)
 ![Micro:Bit](https://img.shields.io/badge/-Micro:Bit-00ED00?style=badge&logo=microbit&logoColor=white)
 ![Tinkercad](https://img.shields.io/badge/-Tinkercad-1477D1?style=badge&logo=tinkercad)
-![Unity](https://img.shields.io/badge/-Tinkercad-1477D1?style=badge&logo=unity)
+![Unity](https://img.shields.io/badge/-Unity-1477D1?style=badge&logo=unity)
 
