@@ -33,6 +33,7 @@
 ![Java](https://img.shields.io/badge/-Java-E34A86?stylebadge&logo=java)
 ![Python](https://img.shields.io/badge/-Python-black?style=badge&logo=Python)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=badge&logo=html5&logoColor=white)
+![JS](https://img.shields.io/badge/-Javascript-yellow?style=badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=badge&logo=css3)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=badge&logo=github)
 ![Git](https://img.shields.io/badge/-Git-FF9933?style=badge&logo=git)
